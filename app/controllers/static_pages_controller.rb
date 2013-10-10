@@ -3,8 +3,11 @@ class StaticPagesController < ApplicationController
   end
 
   def help
-  end 
+  end
 
-  def help
+  def about
+  end
+
+  def contact
   end
 end
